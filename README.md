@@ -15,9 +15,13 @@ Uses Angular 2.0.1 Stable
 ```sh
 $ npm install
 ```
-
+```sh
+$npm install --save auth0-lock
+```
+```sh
+npm install --save angular2-jwt
+```
 ### Compile
-
 
 ```sh
 $ npm start
